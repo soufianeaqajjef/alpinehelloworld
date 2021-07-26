@@ -3,7 +3,7 @@ pipeline {
        IMAGE_NAME = "alpinehelloworld"
        IMAGE_TAG = "latest"
        STAGING = "soufiane-staging"
-       PRODUCTION = "eazytraining-production"
+       PRODUCTION = "soufiane-production"
      }
      agent none
      stages {
